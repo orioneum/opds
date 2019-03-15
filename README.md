@@ -6,10 +6,10 @@ The Orioneum Protocol Descriptions (OPDs) provide a description of the protocol 
 
 Anyone can contribute to the Orioneum Protocol. The following steps highlights the process:  
 1. Fork or branch the repository.
-2. Collaborate and complete an ODP proposal in your repository.
+2. Collaborate and complete an OPD proposal in your repository.
 3. Submit a Merge Request to have your fork merged into this repository.
 
-Before starting, read the [ODP Template](https://gitlab.com/orioneum/opds/blob/master/OPDs/odp0.md), and review [ODP1](https://gitlab.com/orioneum/opds/blob/master/OPDs/opd1.md). Provide as much information as possible along with contact information for further discussion. When ready for submission, submit the Merge Request and one of the Orioneum maintainers will come back to you.  
+Before starting, read the [OPD Template](https://gitlab.com/orioneum/opds/blob/master/OPDs/opd0.md), and review [OPD1](https://gitlab.com/orioneum/opds/blob/master/OPDs/opd1.md). Provide as much information as possible along with contact information for further discussion. When ready for submission, submit the Merge Request and one of the Orioneum maintainers will come back to you.  
 
 # ODP status stages
 
