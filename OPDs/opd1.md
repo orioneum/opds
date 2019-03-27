@@ -6,7 +6,7 @@
 | 1     | tore.stenbock@blockpayd.com | Protocol | Draft  | 2019-03-17 ||
 
 ## Summary
-Main contract of the Orioneum ecosystem. A simple registry mapping asset contracts to its owner. Users can add assets into the registry through public *add* functions.
+Main contract of the Orioneum ecosystem. A simple registry mapping asset contracts to its owner. Users can add assets into the registry through public *add* functions. On registration, the registry will verify with the Orioneum Asset Factory (see [OPD2](https://gitlab.com/orioneum/opds/blob/master/OPDs/opd2.md)) that it was indeed created and recorded.
 
 ## Specification
 This contract maintains an array of AssetsInfo structures. The structure and array is as follows:
