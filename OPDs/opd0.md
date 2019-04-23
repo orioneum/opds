@@ -4,14 +4,14 @@ Some of the fields are required and some are optional.
 
 > *opdid*: `<to be assigned>` (required)  
 > *title*: `<A clear title>` (required)  
-> *author*: `Firstname Lastname (email@address.com)` (required)  
+> *author*: `Firstname Lastname (GitHub username)` (required)  
 > *type*: `Protocol | Standard` (required)  
 > *status*: `Draft | Update | Final` (required)  
-> *created* : `<date in yyyy-mm-dd format>` (required)
+> *updated* : `<date in yyyy-mm-dd format>` (required)
 
 # OPD Title (required)
 
-| opdid | author | type | status | created |
+| opdid | author | type | status | updated |
 | ----- | ------ | ---- | ------ | ------- |
 |       |        |      |        |         ||
 
@@ -25,4 +25,4 @@ Detailed explanation of the OPD and should describe all specifications and schem
 The why behind the specifications. It should describe related work, alternate designs, design decisions, and future work.
 
 ## Implementation (optional)
-Provide details on the implementation of the OPD. Before the status can be set to *Final*, a link to the Merge Request into mainstream code must be provided. This section can be omitted for proposals in *Draft* or *Update*, but it is recommended to provide implementation info as much as possible.
+Provide details on the implementation of the OPD. Before the status can be set to *Final*, a link to the Pull Request into mainstream code must be provided. This section can be omitted for proposals in *Draft* or *Update*, but it is recommended to provide implementation info as much as possible.
