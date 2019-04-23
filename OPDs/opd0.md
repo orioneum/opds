@@ -11,7 +11,7 @@ Some of the fields are required and some are optional.
 
 # OPD Title (required)
 
-| opdid | author | type | status | created |
+| opdid | author | type | status | updated |
 | ----- | ------ | ---- | ------ | ------- |
 |       |        |      |        |         ||
 
