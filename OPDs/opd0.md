@@ -4,7 +4,7 @@ Some of the fields are required and some are optional.
 
 > *opdid*: `<to be assigned>` (required)  
 > *title*: `<A clear title>` (required)  
-> *author*: `Firstname Lastname (email@address.com)` (required)  
+> *author*: `Firstname Lastname (GitHub username)` (required)  
 > *type*: `Protocol | Standard` (required)  
 > *status*: `Draft | Update | Final` (required)  
 > *updated* : `<date in yyyy-mm-dd format>` (required)
